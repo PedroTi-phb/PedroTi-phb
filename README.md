@@ -1,4 +1,4 @@
-#  👨‍💻 PedroTi-phb
+#  👨‍💻 Pedro Henrique Barbosa
  `🚀 Desenvolvedor em Formação` 
 
 Me chamo Pedro Henrique Barbosa, tenho 28 anos e sou natural de Londrina – PR. Concluí o Ensino Médio na Escola Eusébio Castelo Branco e sou formado em TI. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Positivo. Sou apaixonado por tecnologia e por tudo que envolve esse universo, sempre buscando aprender e me aperfeiçoar nessa área que não para de evoluir.
